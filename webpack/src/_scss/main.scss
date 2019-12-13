@@ -1,0 +1,17 @@
+$color-orange: #f97d09;
+
+body {
+  margin: 0;
+}
+.main {
+  background: $color-orange;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.beach {
+  width:100%;
+}

@@ -1,0 +1,4 @@
+parcel/node_modules
+parcel/dist
+webpack/node_modules
+webpack/dist
